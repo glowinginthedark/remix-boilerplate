@@ -18,7 +18,7 @@ export const links: LinksFunction = () => [
 export default function App() {
 
   useEffect(() => {
-    window.location.href = "https://www.superprof.ca/build-your-skills-javascript-node-react-and-full-stack-web-development-one-step-time-with-personalized-coaching.html";
+    window.location.href = "https://glowinginthedark.github.io";
   }, [])
 
   return (
